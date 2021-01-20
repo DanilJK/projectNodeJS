@@ -1,11 +1,13 @@
 {
   "name": "projectNodeJS",
-  "version": "1.0",
+  "version": "1.0.0",
+  "author": "DanilJK",
   "license": "MIT",
   "dependencies": {
     "pg": "^8.0.3"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/DanilJK/projectNodeJS.git"
   }
 }
